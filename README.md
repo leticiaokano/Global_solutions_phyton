@@ -1,0 +1,1 @@
+# Global_solutions_phyton
