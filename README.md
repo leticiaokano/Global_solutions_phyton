@@ -1,4 +1,13 @@
-Roteiro do Vídeo Pitch 
+##  Grupo
+
+| Nome            | RM        |
+|-----------------|-----------|
+| *Thiago nakano* | RM 569151 |
+| *Leticia okano* | RM 571988 |
+| *Enzo furtado*  | RM 570824 |
+
+
+##  Roteiro do Vídeo Pitch 
   
 Nossa equipe pretende desenvolver um sistema inteligente de monitoramento para missões espaciais.
 
