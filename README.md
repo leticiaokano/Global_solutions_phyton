@@ -20,3 +20,5 @@ Para ajudar a resolver esse problema, pretendemos desenvolver uma solução capa
 Quando algum parâmetro apresentar uma situação de atenção ou risco, o sistema irá gerar alertas automáticos para auxiliar a equipe responsável a identificar rapidamente possíveis problemas e tomar decisões de forma mais eficiente.
 
 Além disso, a solução organizará as informações coletadas e fornecerá uma visão geral da missão, permitindo acompanhar a evolução das condições da nave e identificar quais áreas apresentam maior necessidade de atenção.
+
+Link do Video: https://youtube.com/shorts/8TOO6fn3v2I?si=laDXvAUriSdv7CK8
